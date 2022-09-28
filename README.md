@@ -4,4 +4,9 @@ this works is created by Conseption and Systems Laboratery in university of Scie
 
 the model used in this works is U-Net this model is used in medical images but it can also used in several domains
 
+in atachement file you wile finde the model , this model is used for multi clases segmentation.
+
+
+
+
 
